@@ -9,6 +9,6 @@ Project that adds reverb on a real time voice record
 4. Open the Shell
 5. Set you up on the correct repository  
 6. write down the following command  on the shell :
-''' 
+```
 duplex 1 44100
-'''
+```
